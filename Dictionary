@@ -1,0 +1,51 @@
+# Descripción de las Variables
+
+A continuación se presenta una descripción de las variables del conjunto de datos:
+
+## Item_Identifier
+
+**Descripción:** Identificación única del producto.
+
+## Item_Weight
+
+**Descripción:** Peso del producto.
+
+## Item_Fat_Content
+
+**Descripción:** Indica si el producto es bajo en grasa o regular.
+
+## Item_Visibility
+
+**Descripción:** Porcentaje de la superficie total de exposición asignada al producto.
+
+## Item_Type
+
+**Descripción:** Categoría a la que pertenece el producto.
+
+## Item_MRP
+
+**Descripción:** Precio máximo de venta al público (precio de catálogo) del producto.
+
+## Outlet_Identifier
+
+**Descripción:** Identificación única de la tienda.
+
+## Outlet_Establishment_Year
+
+**Descripción:** Año en que se estableció la tienda.
+
+## Outlet_Size
+
+**Descripción:** Tamaño de la tienda en relación con la superficie.
+
+## Outlet_Location_Type
+
+**Descripción:** Tipo de área donde está ubicada la tienda.
+
+## Outlet_Type
+
+**Descripción:** Tipo de establecimiento, si es un almacén o algún tipo de supermercado.
+
+## Item_Outlet_Sales
+
+**Descripción:** Ventas del producto en una tienda específica. Esta es la variable objetivo que se busca predecir.

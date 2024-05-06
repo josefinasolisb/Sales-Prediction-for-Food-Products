@@ -1,6 +1,6 @@
-# project1
-Descripción del Proyecto
-El proyecto se divide en varias etapas, cada una abordando diferentes aspectos del análisis y modelado de datos. A continuación, se presenta un resumen de las principales tareas realizadas:
+# Project 1
+#Objetivo del Proyecto:
+Predicción de ventas para productos alimenticios vendidos en diversas tiendas para ayudar a un comerciante a comprender tanto las propiedades de los productos así como los puntos de venta y como afectan a las ventas.
 
 ## Correcciones de Datos
 Se identificaron y corrigieron varios problemas en los datos, incluyendo la normalización de las categorías de la columna "Item_Fat_Content" y la codificación de las columnas categóricas "Outlet_Size" y "Outlet_Location_Type".

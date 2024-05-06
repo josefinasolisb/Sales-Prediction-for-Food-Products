@@ -1,5 +1,5 @@
 # Project 1
-#Objetivo del Proyecto:
+# Objetivo del Proyecto:
 Predicción de ventas para productos alimenticios vendidos en diversas tiendas para ayudar a un comerciante a comprender tanto las propiedades de los productos así como los puntos de venta y como afectan a las ventas.
 
 ## Correcciones de Datos

@@ -2,19 +2,19 @@
 # Objetivo del Proyecto:
 Predicción de ventas para productos alimenticios vendidos en diversas tiendas para ayudar a un comerciante a comprender tanto las propiedades de los productos así como los puntos de venta y como afectan a las ventas.
 
-## Correcciones de Datos
+## 1. Correcciones de Datos
 Se identificaron y corrigieron varios problemas en los datos, incluyendo la normalización de las categorías de la columna "Item_Fat_Content" y la codificación de las columnas categóricas "Outlet_Size" y "Outlet_Location_Type".
 
-## Análisis Exploratorio de Datos (EDA)
+## 2. Análisis Exploratorio de Datos (EDA)
 Se realizó un análisis exploratorio de los datos para comprender la distribución y las características de las variables. Esto incluyó la identificación de las características más relevantes para la predicción de las ventas.
 
-## Preprocesamiento de Datos
+## 3. Preprocesamiento de Datos
 Se aplicaron técnicas de preprocesamiento de datos, como la imputación de valores faltantes y la codificación de variables categóricas, para preparar los datos para el modelado.
 
-## Modelado Predictivo
+## 4. Modelado Predictivo
 Se implementaron dos modelos predictivos: un modelo de regresión lineal y un modelo de árbol de regresión. Se evaluó el rendimiento de ambos modelos utilizando métricas como R^2 y RMSE.
 
-## Recomendación de Modelo
+## 5. Recomendación de Modelo
 Basándonos en las métricas de evaluación obtenidas, se recomienda utilizar el modelo de regresión lineal para predecir las ventas. Aunque el modelo de árbol de regresión tiene un R^2 de entrenamiento perfecto, su rendimiento en datos de prueba es inferior al modelo lineal, lo que sugiere que podría estar sobreajustado.
 
 
